@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Murathan AI - Get Jacked",
+  title: "fitgenius.ai - Get Jacked",
   description: "Get Jacked 😎",
 };
 
